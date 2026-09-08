@@ -16,6 +16,7 @@ A small Bash script to clean up common cache and log clutter on Kali Linux (or a
 
 ```bash
 git clone https://github.com/rox0786/Kali_Cache_Cleaner-.git
+cd Kali_Cache_Cleaner-
 chmod +x kalicleaner.sh
 ./kalicleaner.sh
 ```
